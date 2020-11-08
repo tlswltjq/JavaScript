@@ -1,0 +1,1 @@
+document.write("안녕하세요 js 파일과 연동!");
