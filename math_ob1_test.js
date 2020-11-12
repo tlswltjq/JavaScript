@@ -15,3 +15,8 @@ document.write(floorNum,"<br>");
 document.write(ceilNum,"<br>");
 document.write(rndNum,"<br>");
 document.write(piNum,"<br>");
+
+rndNum10 = Math.floor(Math.random()*10);
+rndNum30 = Math.floor(Math.random()*30);
+document.write(rndNum10,"<br>");
+document.write(rndNum30);
